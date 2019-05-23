@@ -1,2 +1,1 @@
-# Minecraft-VanillaPlus
-This is the official repository for the minecraft datapack: Vanilla+
+# TODO: Make this readme helpful -_-
